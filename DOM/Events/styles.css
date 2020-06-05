@@ -1,0 +1,8 @@
+.move {
+	transition: all 2s;
+	position: absolute;
+}
+
+.colors {
+	background: teal;
+}
